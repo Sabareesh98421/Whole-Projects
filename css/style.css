@@ -137,15 +137,17 @@ li
 }
 a
 {
-    text-decoration: none;
+    /*text-decoration: none; */
     list-style: none;
-       color:white;
+    color:blue;
+    text-decoration: underline;
+    
     
 }
 a:visited
 {
-    color:white;
-    text-decoration: wavy;
+    color:violet;
+    text-decoration: underline;
     text-shadow: #8C44AA;
 }
 #col6 li #l6
